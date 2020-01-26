@@ -6,10 +6,15 @@ public class IsPrime {
         if (numberIn <= 1) return false;
         if (numberIn == 2) return true;
         if ((numberIn % 2) == 0) return false;
-        int sqrt = (int) Math.sqrt(numberIn);
+        double squareRoot = Math.sqrt(numberIn);
+        long sqrt = Math.round(squareRoot);
 
-        for (int i = 3; i <= sqrt; i=i+2) {
-            int mod = numberIn % i;
+        if (squareRoot == sqrt) {
+            return false;
+        }
+
+        for (long i = 3; i <= sqrt; i=i+2) {
+            long mod = numberIn % i;
             if (mod == 0) {
                 return false;
             }
