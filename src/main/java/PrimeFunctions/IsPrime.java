@@ -1,7 +1,7 @@
 package PrimeFunctions;
 
 public class IsPrime {
-    public boolean IsPrime(int numberIn) {
+    public boolean IsPrime(Double numberIn) {
 
         if (numberIn <= 1) return false;
         if (numberIn == 2) return true;
@@ -14,7 +14,7 @@ public class IsPrime {
         }
 
         for (long i = 3; i <= sqrt; i=i+2) {
-            long mod = numberIn % i;
+            Double mod = numberIn % i;
             if (mod == 0) {
                 return false;
             }
