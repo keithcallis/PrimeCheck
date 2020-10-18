@@ -2,7 +2,7 @@ import PrimeFunctions.*;
 
 public class CheckPrime {
     public static void main (String[] args) {
-        Double numberIn = Double.parseDouble(args[0]);
+        Long numberIn = Long.parseLong(args[0]);
         IsPrime isPrime = new IsPrime();
         boolean primeNumber = isPrime.IsPrime(numberIn);
 
