@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0870c61d-5f5d-4272-b11e-3ac96b042a3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CheckPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PrimeFunctions/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrimeFunctions/IsPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PrimeFunctions/IsPrimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrimeFunctions/IsPrimeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/CheckPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CheckPrime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/PrimeFunctions/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimeFunctions/IsPrime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/PrimeFunctions/IsPrimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrimeFunctions/IsPrimeTest.class" afterDir="false" />
@@ -35,13 +33,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="5f405b07-d448-4405-a159-3a07f25c19c2" />
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.2\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1WwtfXk6nnK76hgNJXPVTE0F5Uj" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -68,10 +59,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -86,7 +77,7 @@
       <recent name="junit.Tesr" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.IsPrimeTest">
+  <component name="RunManager" selected="JUnit.PrimeFunctions in PrimeCheck">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -186,11 +177,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PrimeFunctions in PrimeCheck" />
         <item itemvalue="JUnit.IsPrimeTest" />
         <item itemvalue="JUnit.IsPrimeTest.isPrime_9223372036854775807_Test" />
         <item itemvalue="JUnit.IsPrimeTest.isPrime_18446744082299486207_Test" />
         <item itemvalue="JUnit.IsPrimeTest.isPrime_5600748293801_Test" />
-        <item itemvalue="JUnit.PrimeFunctions in PrimeCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -215,68 +206,20 @@
       <workItem from="1602639389904" duration="1382000" />
       <workItem from="1602974242490" duration="5329000" />
       <workItem from="1603042940079" duration="519000" />
+      <workItem from="1603596485151" duration="50000" />
+      <workItem from="1605125149487" duration="53000" />
+      <workItem from="1609358097003" duration="46000" />
+      <workItem from="1610596821600" duration="56000" />
+      <workItem from="1612037422242" duration="256000" />
+      <workItem from="1612123251995" duration="705000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="395" y="81" key="#Project_Structure" timestamp="1602640429529">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="395" y="81" key="#Project_Structure/62.0.1858.1080@62.0.1858.1080" timestamp="1602640429529" />
-    <state x="315" y="107" width="1200" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1602975608933">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="315" y="107" width="1200" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1602975608933" />
-    <state x="621" y="248" key="FileChooserDialogImpl" timestamp="1602639576848">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="621" y="248" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1602639576848" />
-    <state width="1340" height="443" key="GridCell.Tab.0.bottom" timestamp="1603043461777">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="443" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1603043461777" />
-    <state width="1340" height="443" key="GridCell.Tab.0.center" timestamp="1603043461777">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="443" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1603043461777" />
-    <state width="1340" height="443" key="GridCell.Tab.0.left" timestamp="1603043461777">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="443" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1603043461777" />
-    <state width="1340" height="443" key="GridCell.Tab.0.right" timestamp="1603043461777">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="443" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1603043461777" />
-    <state width="1340" height="327" key="GridCell.Tab.1.bottom" timestamp="1602981634149">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="327" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1602981634149" />
-    <state width="1340" height="327" key="GridCell.Tab.1.center" timestamp="1602981634149">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="327" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1602981634149" />
-    <state width="1340" height="327" key="GridCell.Tab.1.left" timestamp="1602981634149">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="327" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1602981634149" />
-    <state width="1340" height="327" key="GridCell.Tab.1.right" timestamp="1602981634149">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state width="1340" height="327" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1602981634149" />
-    <state x="445" y="161" key="Maven.ArtifactSearchDialog" timestamp="1602640582149">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="445" y="161" key="Maven.ArtifactSearchDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1602640582149" />
-    <state x="416" y="151" key="SettingsEditor" timestamp="1601685770068">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="416" y="151" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1601685770068" />
-    <state x="615" y="264" key="refactoring.ChangeSignatureDialog" timestamp="1602974604295">
-      <screen x="62" y="0" width="1858" height="1080" />
-    </state>
-    <state x="615" y="264" key="refactoring.ChangeSignatureDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1602974604295" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
