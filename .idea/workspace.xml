@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0870c61d-5f5d-4272-b11e-3ac96b042a3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrimeFunctions/IsPrimeBigIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CheckPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CheckPrime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PrimeFunctions/IsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PrimeFunctions/IsPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/PrimeFunctions/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PrimeFunctions/IsPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PrimeFunctions/IsPrimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PrimeFunctions/IsPrimeTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +61,9 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="PrimeFunctions" />
-      <recent name="" />
-    </key>
     <key name="MoveMembersDialog.RECENTS_KEY">
       <recent name="Functions.IsPrime" />
     </key>
@@ -76,37 +71,37 @@
       <recent name="" />
       <recent name="junit.Tesr" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="PrimeFunctions" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PrimeFunctions" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.PrimeFunctions in PrimeCheck">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsPrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PrimeCheck" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PrimeFunctions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="PrimeFunctions" />
-      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrimeTest.isPrime_18446744082299486207_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in PrimeCheck" type="JUnit" factoryName="JUnit" singleton="false" nameIsGenerated="true">
+      <module name="PrimeCheck" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPrimeBigIntegerTest.isPrimeBigInteger_10052678938039_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PrimeCheck" />
       <extension name="coverage">
         <pattern>
@@ -115,14 +110,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="PrimeFunctions" />
-      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeTest" />
-      <option name="METHOD_NAME" value="isPrime_18446744082299486207_Test" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeBigIntegerTest" />
+      <option name="METHOD_NAME" value="isPrimeBigInteger_10052678938039_Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrimeTest.isPrime_5600748293801_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsPrimeBigIntegerTest.isPrimeBigInteger_2932031007403_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PrimeCheck" />
       <extension name="coverage">
         <pattern>
@@ -131,14 +126,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="PrimeFunctions" />
-      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeTest" />
-      <option name="METHOD_NAME" value="isPrime_5600748293801_Test" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeBigIntegerTest" />
+      <option name="METHOD_NAME" value="isPrimeBigInteger_2932031007403_Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPrimeTest.isPrime_9223372036854775807_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsPrimeBigIntegerTest.isPrimeBigInteger_909090909090909090909090909091_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PrimeCheck" />
       <extension name="coverage">
         <pattern>
@@ -147,8 +142,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="PrimeFunctions" />
-      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeTest" />
-      <option name="METHOD_NAME" value="isPrime_9223372036854775807_Test" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeBigIntegerTest" />
+      <option name="METHOD_NAME" value="isPrimeBigInteger_909090909090909090909090909091_Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsPrimeBigIntegerTest.isPrimeBigInteger_96076791871613611_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PrimeCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrimeFunctions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PrimeFunctions" />
+      <option name="MAIN_CLASS_NAME" value="PrimeFunctions.IsPrimeBigIntegerTest" />
+      <option name="METHOD_NAME" value="isPrimeBigInteger_96076791871613611_Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -168,20 +179,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrimeCheck [test]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+                <option value="-T" />
+                <option value="4" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Maven.PrimeCheck [test]" />
+      <item itemvalue="JUnit.All in PrimeCheck" />
+      <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_909090909090909090909090909091_Test" />
+      <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_2932031007403_Test" />
+      <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_10052678938039_Test" />
+      <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_96076791871613611_Test" />
       <item itemvalue="JUnit.PrimeFunctions in PrimeCheck" />
-      <item itemvalue="JUnit.IsPrimeTest.isPrime_18446744082299486207_Test" />
-      <item itemvalue="JUnit.IsPrimeTest.isPrime_5600748293801_Test" />
-      <item itemvalue="JUnit.IsPrimeTest" />
-      <item itemvalue="JUnit.IsPrimeTest.isPrime_9223372036854775807_Test" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.PrimeFunctions in PrimeCheck" />
-        <item itemvalue="JUnit.IsPrimeTest" />
-        <item itemvalue="JUnit.IsPrimeTest.isPrime_9223372036854775807_Test" />
-        <item itemvalue="JUnit.IsPrimeTest.isPrime_18446744082299486207_Test" />
-        <item itemvalue="JUnit.IsPrimeTest.isPrime_5600748293801_Test" />
+        <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_96076791871613611_Test" />
+        <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_10052678938039_Test" />
+        <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_2932031007403_Test" />
+        <item itemvalue="JUnit.IsPrimeBigIntegerTest.isPrimeBigInteger_909090909090909090909090909091_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +252,19 @@
       <workItem from="1610596821600" duration="56000" />
       <workItem from="1612037422242" duration="256000" />
       <workItem from="1612123251995" duration="705000" />
+      <workItem from="1613004570269" duration="101000" />
+      <workItem from="1613880902848" duration="51000" />
+      <workItem from="1614540619729" duration="48000" />
+      <workItem from="1615693556508" duration="59000" />
+      <workItem from="1617668984210" duration="96000" />
+      <workItem from="1619234668818" duration="78000" />
+      <workItem from="1620177393016" duration="62000" />
+      <workItem from="1620527531900" duration="97000" />
+      <workItem from="1620870665226" duration="67000" />
+      <workItem from="1621960819275" duration="412000" />
+      <workItem from="1623283385835" duration="2502000" />
+      <workItem from="1623555444028" duration="4551000" />
+      <workItem from="1623605977181" duration="4125000" />
     </task>
     <servers />
   </component>
