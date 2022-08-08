@@ -23,6 +23,13 @@ public class IsPrimeTest {
     }
 
     @Test
+    public void isPrime_81_Test() {
+        testNumber = 81l;
+        boolean actual = this.funcPrime.IsPrime(testNumber);
+        Assert.assertEquals(String.format("not correct for %d", testNumber), false, actual);
+    }
+
+    @Test
     public void isPrime_440101_Test() {
         testNumber = 440101l;
         boolean actual = this.funcPrime.IsPrime(testNumber);
